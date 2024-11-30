@@ -4,7 +4,7 @@ import unityImage from './img/unity.png';  // Import de l'image
 import makeItBlueImage from './img/make_it_blu.webp';  // Import de l'image
 import unevenImage from './img/uneven.png';  // Import de l'image
 import demineurImage from './img/demineur.png';  // Import de l'image
-import directImage from './img/DirectX-Image.png';  // Import de l'image
+import directImage from './img/Space.png';  // Import de l'image
 const Project = () => {
     return (
     <div>
@@ -18,11 +18,8 @@ const Project = () => {
           <p className="font-body m-2">
           J'ai eu l'opportunité de travailler avec le groupe Océano, qui regroupe notamment le Musée océanographique de Monaco et l'Aquarium de Paris. Leur objectif : créer une communauté en ligne dédiée à la protection des océans.
           Pendant trois mois, j'ai travaillé aux côtés de quatre autres développeurs et de huit artistes pour concevoir un prototype d'une <b>application web</b> gamifiée sur <b>3dverse</b>, un nouveau moteur de rendu. Ce projet m'a permis de développer des solutions innovantes tout en contribuant à une cause environnementale essentielle.</p>
-        </div>
-        
-        
+        </div>      
       </div>
-
       <div className=' flex justify-center  m-2 mb-8'>
       
         <div className='border-[1px] p-2  border-gray-600 w-[90%] rounded-lg '>
@@ -40,7 +37,7 @@ const Project = () => {
       </div>
       <div className=' flex justify-center  m-2 mb-8'>
         <div className='border-[1px] p-2  border-gray-600 w-[90%] rounded-lg '>
-        <h2 className="font-bold  m-2 text-2xl">Moteur de jeu</h2>
+        <h2 className="font-bold  m-2 text-2xl">DirectX12 Moteur de Jeu</h2>
         <img className="mx-auto  rounded-lg m-4"src= {directImage} alt="image de direct X" />
           <p className="font-body m-2">
           Dans le cadre d’un projet en groupe de 4 personnes, nous avons conçu un moteur de jeu en <b>C++</b> à partir de zéro en utilisant <b>DirectX 12</b>, sur une période de 3 semaines. Pour structurer notre moteur, nous avons implémenté un système <b>Entity-Component</b> (ECS).

@@ -243,26 +243,6 @@ const SimpleScene = () => {
         });
       }
     }
-
-    
-
-    // const light5 = new THREE.PointLight(Red,0.5);
-    // light5.position.set(-0.5,-0.5,0);
-    // scene.add(light5);
-
-      //outline.scale.multiplyScalar(1.05); // Légèrement agrandi pour simuler des contours
-      
-    
-
-    
-   
-
-    
-
-    
-
-    
-
         // Fonction pour déplacer la caméra de façon fluide
         function moveCameraSmooth(newPosition) {
           gsap.to(camera.position, {
