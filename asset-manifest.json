@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Lilian-Lafin/static/css/main.91e80ebf.css",
+    "main.js": "/Portfolio-Lilian-Lafin/static/js/main.84c40b98.js",
+    "static/media/unity.png": "/Portfolio-Lilian-Lafin/static/media/unity.6ccb31179927c0b890f3.png",
+    "static/media/Space.png": "/Portfolio-Lilian-Lafin/static/media/Space.2c51d00d8c4a5b247940.png",
+    "static/media/texturelow.jpg": "/Portfolio-Lilian-Lafin/static/media/texturelow.79bd8f965e64c2cdc49f.jpg",
+    "static/media/uneven.png": "/Portfolio-Lilian-Lafin/static/media/uneven.c3c6412580d0911c68a2.png",
+    "static/media/lowtext2.jpg": "/Portfolio-Lilian-Lafin/static/media/lowtext2.52233b21784db69cf0ed.jpg",
+    "static/media/lilian.jpg": "/Portfolio-Lilian-Lafin/static/media/lilian.9eb67f03bbab491c1a1d.jpg",
+    "static/media/texturebleu.jpg": "/Portfolio-Lilian-Lafin/static/media/texturebleu.71e0bd10f42cbc5d0283.jpg",
+    "static/media/js.png": "/Portfolio-Lilian-Lafin/static/media/js.0a9ee44fd83f774ea177.png",
+    "static/media/link.png": "/Portfolio-Lilian-Lafin/static/media/link.38c8284916c6c378c8f9.png",
+    "static/media/make_it_blu.webp": "/Portfolio-Lilian-Lafin/static/media/make_it_blu.18bc8b5eec8362d06bf9.webp",
+    "static/media/gestionR.png": "/Portfolio-Lilian-Lafin/static/media/gestionR.e80a4fa55bc3b5db3ee2.png",
+    "static/media/c-sharp.png": "/Portfolio-Lilian-Lafin/static/media/c-sharp.4a32f53d425c7ad4cb05.png",
+    "static/media/email.png": "/Portfolio-Lilian-Lafin/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/gestion.jpg": "/Portfolio-Lilian-Lafin/static/media/gestion.2399e54a8f7af66702cb.jpg",
+    "static/media/c-.png": "/Portfolio-Lilian-Lafin/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/textPlanet.jpg": "/Portfolio-Lilian-Lafin/static/media/textPlanet.85a6a8c56cd9d07125df.jpg",
+    "index.html": "/Portfolio-Lilian-Lafin/index.html",
+    "main.91e80ebf.css.map": "/Portfolio-Lilian-Lafin/static/css/main.91e80ebf.css.map",
+    "main.84c40b98.js.map": "/Portfolio-Lilian-Lafin/static/js/main.84c40b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e80ebf.css",
+    "static/js/main.84c40b98.js"
+  ]
+}
