@@ -15,7 +15,7 @@ const Pres = () => {
           <br></br>Grâce à ces compétences, j'ai eu l'opportunité de travailler sur des projets variés, notamment avec <b>Unity</b>, où j'ai développé plusieurs jeux vidéo.
           Ces différentes expériences m'ont appris à allier créativité et technique.
           Pour moi, coder, c'est transformer une idée en quelque chose de concret. </p>
-          <a href="${process.env.PUBLIC_URL}/Lilian Lafin - CV.pdf" download="Lilian Lafin - CV.pdf" className=' font-bold rounded-full p-4 bg-blue-500 text-white hover:bg-black transition duration-300 font-body'>Télécharger mon CV</a>
+          <a href="/lilian_lafin.pdf" download="Lilian Lafin - CV.pdf" className=' font-bold rounded-full p-4 bg-blue-500 text-white hover:bg-black transition duration-300 font-body'>Télécharger mon CV</a>
         <div className=' flex justify-center space-x-16 m-8 mt-12'>
           <div className='border-[1px] border-gray-600 w-[40%] rounded-lg hover:border-blue-500 cursor-pointer transition duration-300'>
             <img className="m-2 mb-2 w-8 h-8 mx-auto cursor-pointer"src= {mailImage} alt="lien linkedin Lilian Lafin" />
