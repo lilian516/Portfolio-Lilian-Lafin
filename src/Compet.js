@@ -8,7 +8,7 @@ const Compet = () => {
     return (
     <div>
       <div className='m-8 mb-12'>
-      <h1 className="text-4xl font-bold font-sans ">Mes compétences je test des truce</h1>
+      <h1 className="text-4xl font-bold font-sans ">Mes compétences</h1>
       </div>
       
       <div className=' flex justify-center space-x-16 m-4'>
