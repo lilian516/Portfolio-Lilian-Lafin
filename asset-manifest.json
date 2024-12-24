@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Lilian-Lafin/static/css/main.91e80ebf.css",
-    "main.js": "/Portfolio-Lilian-Lafin/static/js/main.68a8997f.js",
+    "main.js": "/Portfolio-Lilian-Lafin/static/js/main.88166476.js",
     "static/media/unity.png": "/Portfolio-Lilian-Lafin/static/media/unity.6ccb31179927c0b890f3.png",
     "static/media/Space.png": "/Portfolio-Lilian-Lafin/static/media/Space.2c51d00d8c4a5b247940.png",
     "static/media/texturelow.jpg": "/Portfolio-Lilian-Lafin/static/media/texturelow.79bd8f965e64c2cdc49f.jpg",
@@ -20,10 +20,10 @@
     "static/media/textPlanet.jpg": "/Portfolio-Lilian-Lafin/static/media/textPlanet.85a6a8c56cd9d07125df.jpg",
     "index.html": "/Portfolio-Lilian-Lafin/index.html",
     "main.91e80ebf.css.map": "/Portfolio-Lilian-Lafin/static/css/main.91e80ebf.css.map",
-    "main.68a8997f.js.map": "/Portfolio-Lilian-Lafin/static/js/main.68a8997f.js.map"
+    "main.88166476.js.map": "/Portfolio-Lilian-Lafin/static/js/main.88166476.js.map"
   },
   "entrypoints": [
     "static/css/main.91e80ebf.css",
-    "static/js/main.68a8997f.js"
+    "static/js/main.88166476.js"
   ]
 }
