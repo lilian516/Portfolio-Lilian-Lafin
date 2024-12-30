@@ -487,7 +487,7 @@ const SimpleScene = () => {
         </div>
       )}
 
-        {isClickedCompet && (<div className="w-full md:w-1/2 h-screen overflow-y-scroll" >
+        {isClickedCompet && (<div className="w-full md:w-1/2 h-screen overflow-y-scroll">
            <Compet/>
          </div>
        )}
